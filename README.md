@@ -123,6 +123,17 @@ Contributions are very welcome. First, please read the [Pull Request Guidelines]
 
 Copyright (c) 2019-2020 Eduardo Gómez. Released under the [MIT license](https://github.com/eddiesigner/liebling/blob/master/LICENSE).
 
+## Compile
+Install Nodejs and npm
+
+Open a terminal and go to the src directory.
+
+Run npm install.
+
+Build the theme for production just by running npm run production (within the src directory)
+
+Upload the file liebling.zip to your Ghost instance.
+
 ## Credits
 
 All the photos I used in this theme were taken from [Unsplash](https://unsplash.com)
